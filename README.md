@@ -1,4 +1,4 @@
-﻿# MHW Weapon skin mod: PWP-C17 Sagitanius type C
+﻿# MHW Weapon skin mod: PWP-C17 Sagittanius type C
 
 ======================Presented by SEA group & 狩技======================
 
