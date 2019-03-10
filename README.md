@@ -1,4 +1,4 @@
-﻿# MHW Weapon skin mod: PWP-R16 Sagitanius type R
+﻿# MHW Weapon skin mod: PWP-C17 Sagitanius type C
 
 ======================Presented by SEA group & 狩技======================
 
@@ -13,7 +13,7 @@ steam/steamapps/common/Monster Hunter World/
 卸载：
 在安装文件夹下对应删除压缩包文件
 
-This mod applies to Taroth Blitz
+This mod applies to Taroth Assault
 
 Installation: 
 Copy "nativePC" into "steam/steamapps/common/Monster Hunter World/" and change equipment once
